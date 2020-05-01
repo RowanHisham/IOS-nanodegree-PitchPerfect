@@ -9,12 +9,16 @@ In the first screen, the user should tap the microphone button to record an audi
 The recording may be paused by pressing the pause button - and resumed by pressing the microphone button again.
 To finish the recording, the user should press the stop button.
 
+<p align="center">
 <img src="https://github.com/RowanHisham/IOS-nanodegree-PitchPerfect/blob/master/Images/pitchperfect1.png" alt="alt text" width="300" height="550" >
+</p>
 
 ### Audio effects screen
 The user should tap an effect button (reverb, chipmunk, darth vader, fast or slow) to play the recorded audio with the respective effect.
 
+<p align="center">
 <img src="https://github.com/RowanHisham/IOS-nanodegree-PitchPerfect/blob/master/Images/pitchperfect2.png" alt="alt text" width="300" height="550">
+</p>
 
 ## Frameworks
 UIKit
